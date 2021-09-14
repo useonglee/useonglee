@@ -24,7 +24,7 @@ Good day!
 If you want to contact me, please leave me a message!
 
 ### ✨ Experience
-* **code states** - Coding bootcamp *(12 2020 ~ 08 2021)*
+* **code states** - Coding bootcamp *(12 2020 ~ 06 2021)*
 
 
 <br/>
