@@ -23,8 +23,13 @@ Good day!
 
 If you want to contact me, please leave me a message!
 
+<br/>
+
 ### ✨ Experience
-* **code states** - Coding bootcamp *(12 2020 ~ 09 2021)*
+|소속|기간|
+|:---:|:---:|
+|Code States|Coding bootcamp *( 12.2020 ~ 09.2021 )*|
+|MAXST|Frontend Developer *( 11.2021 ~ 현재 )*|
 
 
 <br/>
