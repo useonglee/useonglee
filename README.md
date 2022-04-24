@@ -25,16 +25,25 @@ If you want to contact me, please leave me a message!
 
 <br/>
 
-### ✨ Experience
-|소속|기간|
-|:---:|:---:|
-|Code States|Coding bootcamp *( 12.2020 ~ 09.2021 )*|
-|MAXST|Frontend Developer *( 11.2021 ~ 현재 )*|
-
+## 💻 Side Project
+- [숏폼 영상 만들기 챌린지](https://github.com/Numble-challenge-Team) - 진행 중
+- [YAPP 20기 웹뷰 프로젝트](https://github.com/YAPP-Github/20th-ALL-Rounder-Team-2-Web) - 진행 중
 
 <br/>
 
-## Github Stats 
+## ✍️ Study
+- [모던 자바스크립트 Deep Dive 스터디](https://github.com/PPO-F-MAN/modern-javascript-deep-dive) - 진행 중
+- [HTTP 완벽 가이드 스터디](https://github.com/YAPP-Github/20th-Network-Study/blob/main/README.md) - 진행 중
+
+<br/>
+
+## ✨ Experience
+- Code States - Coding bootcamp ( 12.2020 ~ 09.2021 )
+- MAXST - Frontend Developer ( 11.2021 ~ 현재 )
+
+<br/>
+
+## 🌲 Github Stats
 <table style="margin: 0 auto;"><tr><td valign="top" width="50%">
   
 <img src="https://github-readme-stats.vercel.app/api?username=useonglee&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 98%" />
@@ -45,9 +54,6 @@ If you want to contact me, please leave me a message!
 </td></tr></table>  
 
 <br/>  
-
-
-
 
 
 
