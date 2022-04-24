@@ -28,6 +28,7 @@ If you want to contact me, please leave me a message!
 ## 💻 Side Project
 - [숏폼 영상 만들기 챌린지](https://github.com/Numble-challenge-Team) - 진행 중
 - [YAPP 20기 웹뷰 프로젝트](https://github.com/YAPP-Github/20th-ALL-Rounder-Team-2-Web) - 진행 중
+- [npm 라이브러리 배포](https://github.com/PPO-F-MAN/react-season-component) ( 2월 16일 ~ 2월 21일 )
 
 <br/>
 
@@ -38,8 +39,8 @@ If you want to contact me, please leave me a message!
 <br/>
 
 ## ✨ Experience
-- Code States - Coding bootcamp ( 12.2020 ~ 09.2021 )
-- MAXST - Frontend Developer ( 11.2021 ~ 현재 )
+- MAXST - Frontend Developer ( 2021.11 ~ 현재 )
+- Code States - Coding bootcamp ( 2020.12 ~ 2021.09 )
 
 <br/>
 
