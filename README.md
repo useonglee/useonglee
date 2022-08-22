@@ -26,6 +26,7 @@ If you want to contact me, please leave me a message!
 <br/>
 
 ## 💻 Side Project
+- [쿠팡 클론 코딩 챌린지](https://github.com/useonglee/coupang-clone) - ( 8월 19일 ~ 9월 29일 )
 - [YAPP 20기 웹뷰 프로젝트](https://github.com/YAPP-Github/20th-ALL-Rounder-Team-2-Web) - ( 4월 09일 ~ 8월 06일 )
 - [숏폼 영상 만들기 챌린지](https://github.com/Numble-challenge-Team) ( 4월 15일 ~ 5월 15일 )
 - [npm 라이브러리 배포](https://github.com/PPO-F-MAN/react-season-component) ( 2월 16일 ~ 2월 21일 )
