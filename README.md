@@ -40,6 +40,7 @@ If you want to contact me, please leave me a message!
 <br/>
 
 ## ✨ Experience
+- IT 동아리 YAPP - 웹 개발 총괄 운영진 ( 2022.08 ~ 현재 )
 - MAXST - Frontend Developer ( 2021.11 ~ 현재 )
 - Code States - Coding bootcamp ( 2020.12 ~ 2021.09 )
 
