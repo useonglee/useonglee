@@ -26,6 +26,7 @@ If you want to contact me, please leave me a message!
 <br/>
 
 ## 💻 Side Project
+- [카카오 X 구름 해커톤](https://github.com/jeju-power-test) - ( 11월 17일 ~ 11월 19일 )
 - [원티드 프리온보딩 챌린지 3차 Next.js](https://www.wanted.co.kr/events/pre_challenge_fe_3) - ( 10월 3일 ~ 10월 15일 )
 - [쿠팡 클론 코딩 챌린지](https://github.com/useonglee/coupang-clone) - ( 8월 19일 ~ 9월 29일 )
 - [YAPP 20기 웹뷰 프로젝트](https://github.com/YAPP-Github/20th-ALL-Rounder-Team-2-Web) - ( 4월 09일 ~ 8월 06일 )
