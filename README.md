@@ -40,13 +40,6 @@ If you want to contact me, please leave me a message!
 - [모던 자바스크립트 Deep Dive 스터디](https://github.com/PPO-F-MAN/modern-javascript-deep-dive) - ( 4월 04일 ~ 6월 27일 )
 
 <br/>
-
-## ✨ Experience
-- 토스증권 - Frontend Developer ( 2022.11 ~ )
-- IT 동아리 YAPP - 웹 개발 총괄 운영진 ( 2022.08 ~ 현재 )
-- MAXST - Frontend Developer ( 2021.11 ~ 2022.11 )
-- Code States - Coding bootcamp ( 2020.12 ~ 2021.09 )
-
 <br/>
 
 ## 🌲 Github Stats
