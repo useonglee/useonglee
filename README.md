@@ -42,7 +42,7 @@ If you want to contact me, please leave me a message!
 ## ✍️ Study
 
 ### 2023년
-- [HTTP 완벽 가이드 스터디](https://github.com/YAPP-Github/21st-Study-CS-3) - ( 11월 23일 ~ 진행 중 )
+- [HTTP 완벽 가이드 스터디](https://github.com/YAPP-Github/21st-Study-CS-3) - ( 2022.11.23 ~ 진행 중 )
 
 ### 2022년
 - [모던 자바스크립트 Deep Dive 스터디](https://github.com/PPO-F-MAN/modern-javascript-deep-dive) - ( 4월 04일 ~ 6월 27일 )
