@@ -28,6 +28,7 @@ If you want to contact me, please leave me a message!
 
 
 ## 👨🏻‍💻 블로그 최신 글
+- [꿈이 없던 내가 개발자가 되기 까지 - 인생 회고](https://useong.tistory.com/3)
 - [성취형 개발자의 2022년 회고, 그리고 2023년 계획](https://useong.tistory.com/2)
 
 <br />
