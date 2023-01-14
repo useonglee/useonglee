@@ -13,6 +13,7 @@
 <img src=https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=Gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
 </a>
 
+
 ### Hello, I'm Useong Lee!
 
 Good day!
@@ -24,6 +25,12 @@ Good day!
 If you want to contact me, please leave me a message!
 
 <br/>
+
+
+## 👨🏻‍💻 블로그 최신 글
+- [성취형 개발자의 2022년 회고, 그리고 2023년 계획](https://useong.tistory.com/2)
+
+<br />
 
 ## 💻 Side Project
 
