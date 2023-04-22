@@ -24,6 +24,7 @@ Good day!
 
 If you want to contact me, please leave me a message!
 
+<!-- 
 <br/>
 
 <br />
@@ -32,6 +33,7 @@ If you want to contact me, please leave me a message!
 
 ### 2023년
 - N/A
+
 
 ### 2022년
 - [카카오 X 구름 해커톤](https://github.com/jeju-power-test) - ( 11월 17일 ~ 11월 19일 )
@@ -48,10 +50,10 @@ If you want to contact me, please leave me a message!
 - [HTTP 완벽 가이드 스터디](https://github.com/YAPP-Github/21st-Study-CS-3) - ( 2022.11.23 ~ 진행 중 )
 
 ### 2022년
-- [모던 자바스크립트 Deep Dive 스터디](https://github.com/PPO-F-MAN/modern-javascript-deep-dive) - ( 4월 04일 ~ 6월 27일 )
+- [모던 자바스크립트 Deep Dive 스터디](https://github.com/PPO-F-MAN/modern-javascript-deep-dive) - ( 4월 04일 ~ 6월 27일 ) -->
 
 <br/>
-<br/>
+<br/> 
 
 ## 🌲 Github Stats
 <table style="width: "100%" !important;">
